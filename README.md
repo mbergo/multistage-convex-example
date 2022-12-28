@@ -1,4 +1,4 @@
-# Convergence for stochastic optimization problems on multistage problems.
+# Convergence for stochastic optimization problems on multistage situatios.
 
 Consider a company that operates a fleet of cargo ships. The company wants to optimize its shipping routes and cargo loadings to maximize profits over a planning horizon of T time periods. Each time period t corresponds to a specific month, and the company can choose the routes and cargo loadings for each ship in each time period.
 
